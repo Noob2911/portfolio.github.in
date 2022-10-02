@@ -101,6 +101,12 @@ body{
     position: fixed;
     background-color:rgb(155, 145, 136);
 }
+@media screen and (max-width:576px) {
+    .tap-to-top{
+        margin-top:50%;
+    }
+    
+}
 section{
     width: 100%;
     display: flex;
