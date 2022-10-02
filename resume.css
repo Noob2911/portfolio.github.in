@@ -117,6 +117,11 @@ section{
 .skill-contant{
     width: 70%;
 }
+@media screen and (min-width: 992px) {
+    .skill-contant{
+        width: 60%;
+    }
+}
 #skillbox-alignment{
     display: flex;
     flex-direction:row;
