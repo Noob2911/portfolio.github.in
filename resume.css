@@ -3,7 +3,7 @@ body{
 
 }
 #body-header{
-    height :70vh;
+    height :60vh;
     opacity: 0.8;
     background-image : url(bg-image.jpg);
     background-size: cover;
