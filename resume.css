@@ -96,16 +96,9 @@ body{
     margin-bottom: 8%;
 }
 .tap-to-top{
-    margin-top:11%;
     font-size:1.9rem;
     position: fixed;
     background-color:rgb(155, 145, 136);
-}
-@media screen and (max-width:576px) {
-    .tap-to-top{
-        margin-top:50%;
-    }
-    
 }
 section{
     width: 100%;
