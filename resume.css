@@ -10,6 +10,11 @@ body{
     background-position: center;
     background-attachment: fixed;
 }
+@media screen and (max-width:576px){
+    #body-header{
+        height:50vh;
+    }
+}
 
 .horizontal-list{
     list-style: none;
