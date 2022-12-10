@@ -36,6 +36,14 @@ body{
     text-decoration: none;
     transition: color 0.5s;
 }
+.horizontal-list li p{
+    color: white;
+    text-decoration: none;
+    transition: color 0.5s;
+}
+.horizontal-list li p:hover{
+    color: rgb(32, 178, 170);
+}
 .horizontal-list li a:hover{
     color: rgb(32, 178, 170);
 }
@@ -162,7 +170,7 @@ section{
 }
 
 
-.eighty-five{
+.eightyfive{
     width: 85%;
     height: inherit;
     background-color: blue;
@@ -189,7 +197,7 @@ section{
     background-color: rgb(255, 0, 115);
 }
 
-.eighty-nine{
+.eightynine{
     width: 89%;
     height: inherit;
     background-color: rgb(19, 30, 22);
